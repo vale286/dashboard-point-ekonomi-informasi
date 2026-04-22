@@ -1,6 +1,6 @@
 # 📊 Dashboard Analisis Nilai Mahasiswa
 
-Aplikasi berbasis **Streamlit** untuk menganalisis performa mahasiswa (M1–M4) menggunakan **Hybrid Forecasting** dan **Machine Learning (Random Forest)**.
+Aplikasi berbasis **Streamlit** untuk menganalisis performa mahasiswa (M1-M4) menggunakan **Hybrid Forecasting** dan **Machine Learning (Random Forest)**.
 
 ---
 
